@@ -4,4 +4,5 @@ The charts (a line chart and a scatter chart) are updated when the user changes 
 
 ![Correlation-Visualizer Chart](https://github.com/mayest/Correlation-Visualizer/blob/master/correlation-visualizer.jpg)
 
+You can run the Jupyter notebook in your browser without having Python or Jupyter installed on your computer by clicking the Binder button below.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayest/Correlation-Visualizer/master)
