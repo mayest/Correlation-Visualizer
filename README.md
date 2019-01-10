@@ -7,3 +7,7 @@ The charts (a line chart and a scatter chart) are updated when the user changes 
 You can run the Jupyter notebook in your browser without having Python or Jupyter installed on your computer by clicking the Binder button below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayest/Correlation-Visualizer/master)
+
+Alternatively, you can open the notebook in Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://mybinder.org/v2/gh/mayest/Correlation-Visualizer/master)
