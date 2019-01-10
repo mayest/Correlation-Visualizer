@@ -8,6 +8,6 @@ You can run the Jupyter notebook in your browser without having Python or Jupyte
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mayest/Correlation-Visualizer/master)
 
-Alternatively, you can open the notebook in Google Colab:
+Alternatively, you can open the notebook in Google Colab, but this is not recommended as the Jupyter widgets do not work in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mayest/Correlation-Visualizer/blob/master/Correlation%20Visualizer.ipynb)
